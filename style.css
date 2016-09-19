@@ -1,0 +1,78 @@
+#logo {
+	width: 300px;
+	height: 100px;
+	padding-left: 475px;
+	padding-top: 100px;
+}
+
+#NavigationMenu {
+	padding-top: 6px;
+	padding-left: 1040px;
+	list-style-type: none;
+}
+
+#SignIn {
+	border-radius: 5px;
+	background-color: #4d88ff;
+	font-weight: bold;
+	color: white;
+}
+
+#SearchBox {
+	height: 40px;
+	width: 600px;
+	border: 1px solid #4d88ff;
+}
+
+#wrapper {
+	padding-top: 0px;
+	padding-left: 320px;
+}
+
+#SecondNavigation {
+	padding-top: 20px;
+	padding-left: 475px;
+	list-style-type: none;
+}
+
+#Serbia {
+	margin-top: -20px;	padding-top: 0px;
+	padding-left: 714px;
+	font-size:16px;
+	color:#4d88ff;
+}
+
+#BottomNavBar {
+	padding-left: 0px;
+	margin-left:0px;
+	margin-bottom:0px;
+	margin-top: 120px;
+	color: #4d4d4d;
+	background-color: #f2f2f2;
+	list-style-type: none;
+}
+
+#righthand {
+	padding-left:790px;
+}
+
+.SecondNav {
+	border-radius: 5px;
+	font-size: 14px;
+	background-color: #ebebe0;
+	color: #595959;
+	padding: 12px 15px;
+}
+
+p {
+	padding-top: 20px;
+	padding-left: 530px;
+	font-size: 12px;
+}
+
+li {
+	font-size: 13px;
+	display: inline;
+	padding: 8px 12px;
+	text-align: center;
+}
